@@ -1,7 +1,7 @@
-#Turtle Crossing the deadly road
+# Turtle Crossing the deadly road
 Created game for turtle to cross road in deadly trafic 😵💀💀
 
-##How to setup
+## How to setup
 download all file in folder and installted latest python3 in system
 
 ## How to run 
